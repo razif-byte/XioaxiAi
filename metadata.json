@@ -1,0 +1,8 @@
+{
+  "name": "Remix Xiaoxi AI",
+  "description": "Asisten Voice Recognition Bahasa Melayu \u0026 Kawalan Peranti WiFi Mudah Alih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
